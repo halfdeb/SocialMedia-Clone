@@ -1,0 +1,6 @@
+@Brainrot_HostAddress = http://localhost:5188
+
+GET {{Brainrot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
